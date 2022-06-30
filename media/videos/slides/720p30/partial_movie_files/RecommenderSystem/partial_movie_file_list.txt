@@ -1,0 +1,7 @@
+file 'file:/home/manuel/Slides/TechInfoWocheKSSO/media/videos/slides/720p30/partial_movie_files/RecommenderSystem/00000.mp4'
+file 'file:/home/manuel/Slides/TechInfoWocheKSSO/media/videos/slides/720p30/partial_movie_files/RecommenderSystem/00001.mp4'
+file 'file:/home/manuel/Slides/TechInfoWocheKSSO/media/videos/slides/720p30/partial_movie_files/RecommenderSystem/00002.mp4'
+file 'file:/home/manuel/Slides/TechInfoWocheKSSO/media/videos/slides/720p30/partial_movie_files/RecommenderSystem/00003.mp4'
+file 'file:/home/manuel/Slides/TechInfoWocheKSSO/media/videos/slides/720p30/partial_movie_files/RecommenderSystem/00004.mp4'
+file 'file:/home/manuel/Slides/TechInfoWocheKSSO/media/videos/slides/720p30/partial_movie_files/RecommenderSystem/00005.mp4'
+file 'file:/home/manuel/Slides/TechInfoWocheKSSO/media/videos/slides/720p30/partial_movie_files/RecommenderSystem/00006.mp4'
